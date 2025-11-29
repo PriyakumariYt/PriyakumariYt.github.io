@@ -45,6 +45,16 @@ const project = [
       github: "https://github.com/PriyakumariYt/77xClub",
     },
   },
+     {
+    id: 36,
+    name: "Nek Punjabi Estate",
+    category: "Mern",
+    image: "image/nekpunjabi.png",
+    links: {
+      website: "https://nek-punjabi-estate.vercel.app/",
+      github: "https://github.com/PriyakumariYt/NekPunjabi_Estate",
+    },
+  },
         {
     id: 34,
     name: "QuadbTech",
