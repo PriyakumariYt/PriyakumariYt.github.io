@@ -15,6 +15,16 @@ themeToggle.addEventListener("click", function (el) {
 // project
 
 const project = [
+      {
+    id: 33,
+    name: "Xpedition",
+    category: "Mern",
+    image: "image/dabarcodes.png",
+    links: {
+      website: "https://dabarcodes-project-dabarcodes-front.vercel.app/",
+      github: "https://github.com/PriyakumariYt/Dabarcodes_Project",
+    },
+  },
   {
     id: 32,
     name: "Xpedition",
@@ -25,6 +35,7 @@ const project = [
       github: "https://github.com/PriyakumariYt/Xpedition-",
     },
   },
+
   
   {
     id: 1,
