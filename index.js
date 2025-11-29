@@ -35,9 +35,19 @@ const project = [
       github: "https://github.com/PriyakumariYt/Xpedition-",
     },
   },
+   {
+    id: 35,
+    name: "77xClub",
+    category: "Mern",
+    image: "image/77xclub.png",
+    links: {
+      website: "https://77x-club.vercel.app/",
+      github: "https://github.com/PriyakumariYt/77xClub",
+    },
+  },
         {
     id: 34,
-    name: "QuadbTech ",
+    name: "QuadbTech",
     category: "Mern",
     image: "image/quadb.png",
     links: {
