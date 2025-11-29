@@ -35,6 +35,16 @@ const project = [
       github: "https://github.com/PriyakumariYt/Xpedition-",
     },
   },
+        {
+    id: 34,
+    name: "QuadbTech ",
+    category: "Mern",
+    image: "image/quadb.png",
+    links: {
+      website: "https://quadb-new-website.vercel.app/",
+      github: "https://github.com/PriyakumariYt/Quadb_New_Website",
+    },
+  },
 
   
   {
