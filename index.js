@@ -16,6 +16,17 @@ themeToggle.addEventListener("click", function (el) {
 
 const project = [
   {
+    id: 32,
+    name: "Xpedition",
+    category: "Mern",
+    image: "image/xpedition.png",
+    links: {
+      website: "https://xpedition.kaifoundry.com/",
+      github: "https://github.com/PriyakumariYt/Xpedition-",
+    },
+  },
+  
+  {
     id: 1,
     name: "Blog App",
     category: "Mern",
