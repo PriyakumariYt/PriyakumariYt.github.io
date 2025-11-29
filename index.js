@@ -17,7 +17,7 @@ themeToggle.addEventListener("click", function (el) {
 const project = [
       {
     id: 33,
-    name: "Xpedition",
+    name: "Dabarcodes",
     category: "Mern",
     image: "image/dabarcodes.png",
     links: {
